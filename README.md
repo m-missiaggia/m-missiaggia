@@ -13,5 +13,10 @@ Hi there! I'm Marta (https://github.com/m-missiaggia), a passionate physicist fr
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-missiaggia&show_icons=true&theme=radical)
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-missiaggia&layout=compact&theme=radical)
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=m-missiaggia&theme=radical)
+
+## 📫 Contact
+
+You can reach me at:
+- **Email:** marta.missiaggia@miami.edu
+- **GitHub:** [@m-missiaggia](https://github.com/m-missiaggia)
 
