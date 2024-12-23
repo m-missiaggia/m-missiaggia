@@ -19,4 +19,5 @@ Hi there! I'm Marta (https://github.com/m-missiaggia), a passionate physicist fr
 You can reach me at:
 - **Email:** marta.missiaggia@miami.edu
 - **GitHub:** [@m-missiaggia](https://github.com/m-missiaggia)
+- **ResearchGate:** Marta Missiaggia
 
