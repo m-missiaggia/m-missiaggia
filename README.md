@@ -4,10 +4,10 @@ Welcome to my profile! ✨
 
 ## 📖 About Me
 
-Hi there! I'm Marta (https://github.com/m-missiaggia), a passionate physicist from Vicenza, Italy, currently living in Miami, US. I love working on understanding the biological effect of radiation, in particular using microdosimetry. 
+Hi there! I'm Marta (https://github.com/m-missiaggia), an Assistant Professor in the Department of Physics and Astronomy at LSU from Vicenza, Italy. I love working on understanding the biological effect of radiation, in particular using microdosimetry. 
 
 - **Education** BS, MS and PhD in physics at the University of Trento (IT)
-- **Work:** Postdoc at the University of Miami (US)
+- **Previous Work:** Postdoc at the University of Miami (US)
 
 ## 📈 GitHub Stats
 
@@ -17,7 +17,7 @@ Hi there! I'm Marta (https://github.com/m-missiaggia), a passionate physicist fr
 ## 📫 Contact
 
 You can reach me at:
-- **Email:** marta.missiaggia@miami.edu
+- **Email:** mmissi2@lsu.edu
 - **GitHub:** [@m-missiaggia](https://github.com/m-missiaggia)
 - **ResearchGate:** Marta Missiaggia
 
